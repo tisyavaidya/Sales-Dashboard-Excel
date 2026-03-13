@@ -1,29 +1,27 @@
-Overview
+# SalesVision – Interactive Sales Analytics Dashboard
 
-This project presents a Sales Performance Dashboard created using Excel. The dashboard visualizes key business metrics to help analyze sales trends, regional performance, and product performance.
+## Overview
+SalesVision is an Excel-based analytics dashboard designed to visualize and analyze sales performance. The dashboard enables users to explore sales trends, regional performance, and product-level insights using interactive visualizations.
 
-Features
+## Features
+- Interactive sales dashboard
+- KPI monitoring
+- Regional and product-level analysis
+- Dynamic charts and pivot tables
 
-Interactive charts and graphs
+## Key Metrics Analyzed
+- Total Revenue
+- Sales by Region
+- Product Category Performance
+- Monthly Sales Trends
 
-KPI metrics for sales performance
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Data Visualization
+- Charts & Slicers
 
-Regional and product category analysis
-
-Dynamic filtering using Excel tools
-
-Tools Used
-
-Microsoft Excel
-
-Pivot Tables
-
-Charts & Data Visualization
-
-Insights Provided
-
-Monthly sales trends
-
-Top-performing products
-
-Regional sales comparison
+## Insights Provided
+- Identification of top-performing products
+- Regional sales comparison
+- Trend analysis for sales growth
